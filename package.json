@@ -1,0 +1,21 @@
+{
+  "name": "collective-retreats",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp start"
+  },
+  "dependencies": {
+    "mjml": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-mjml": "^4.0.2",
+    "prettier": "3.1.0"
+  }
+}
